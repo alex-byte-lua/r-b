@@ -1,12 +1,6 @@
 
 # rank server
 
-  
-
-[![ROBLOX API Discord](https://img.shields.io/badge/discord-roblox%20api%20chat-blue.svg?style=flat-square)](https://discord.gg/EDXNdAT)
-
-  
-
 This is an improved example server that uses the [noblox.js](https://github.com/suufi/noblox.js) library, allowing users to execute site actions from in-game via HttpService.
 
 ## Instructions
